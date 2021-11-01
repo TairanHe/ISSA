@@ -1,5 +1,5 @@
 # Implicit Safe Set Algorithm (ISSA)
-Code for paper "**Model-free Safe Control for Zero-Violation Reinforcement Learning**" at CoRL2021
+Code for paper "**[Model-free Safe Control for Zero-Violation Reinforcement Learning](https://openreview.net/forum?id=UGp6FDaxB0f)**" at Conference on Robot Learning (CoRL) 2021. 
 
 ![Comparison_0 5xslow_7mb](https://user-images.githubusercontent.com/52708081/139673561-e79a9f7d-36d7-499d-a375-3a14fb9d85be.gif)
 
