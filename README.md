@@ -1,5 +1,8 @@
 # Implicit Safe Set Algorithm (ISSA)
 Code for paper "**Model-free Safe Control for Zero-Violation Reinforcement Learning**" at CoRL2021
+
+![Comparison_0 5xslow_7mb](https://user-images.githubusercontent.com/52708081/139673561-e79a9f7d-36d7-499d-a375-3a14fb9d85be.gif)
+
 ## Running instructions 
 - To run he PPO-ISSA algorithm for doing task of reaching goals:
     
